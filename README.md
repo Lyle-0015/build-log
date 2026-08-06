@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Single key, many models: what a switching layer really costs in a Node.js/Express API](posts/single-key-many-models-what-a-switching-layer-really-costs-in-a-node-js.md)
 - [What I check before trusting async transcription webhooks for long support-call audio](posts/what-i-check-before-trusting-async-transcription-webhooks-for-long-suppo.md)
 - [Node.js LLM summaries as a JSON contract: title, bullets, and action items](posts/node-js-llm-summaries-as-a-json-contract-title-bullets-and-action-items.md)
 - [Handling 429 rate limits and retries for speech-to-text APIs in Node.js](posts/handling-429-rate-limits-and-retries-for-speech-to-text-apis-in-node-js.md)
